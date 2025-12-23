@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-activity-page/static/css/main.d679f3d4.css",
-    "main.js": "/my-activity-page/static/js/main.efdaa277.js",
-    "static/media/comment.jpg": "/my-activity-page/static/media/comment.f97981ea5a8b952f04a5.jpg",
-    "static/media/banner.jpg": "/my-activity-page/static/media/banner.866d8d180836db5902b1.jpg",
-    "static/media/title2.jpg": "/my-activity-page/static/media/title2.90772118bcb945f478b2.jpg",
-    "static/media/title1.jpg": "/my-activity-page/static/media/title1.8ba117974bc4e9ec47c1.jpg",
-    "index.html": "/my-activity-page/index.html",
-    "main.d679f3d4.css.map": "/my-activity-page/static/css/main.d679f3d4.css.map",
-    "main.efdaa277.js.map": "/my-activity-page/static/js/main.efdaa277.js.map"
+    "main.css": "/Learning-React/static/css/main.d679f3d4.css",
+    "main.js": "/Learning-React/static/js/main.c4f8bfd6.js",
+    "static/media/comment.jpg": "/Learning-React/static/media/comment.f97981ea5a8b952f04a5.jpg",
+    "static/media/banner.jpg": "/Learning-React/static/media/banner.866d8d180836db5902b1.jpg",
+    "static/media/title2.jpg": "/Learning-React/static/media/title2.90772118bcb945f478b2.jpg",
+    "static/media/title1.jpg": "/Learning-React/static/media/title1.8ba117974bc4e9ec47c1.jpg",
+    "index.html": "/Learning-React/index.html",
+    "main.d679f3d4.css.map": "/Learning-React/static/css/main.d679f3d4.css.map",
+    "main.c4f8bfd6.js.map": "/Learning-React/static/js/main.c4f8bfd6.js.map"
   },
   "entrypoints": [
     "static/css/main.d679f3d4.css",
-    "static/js/main.efdaa277.js"
+    "static/js/main.c4f8bfd6.js"
   ]
 }
